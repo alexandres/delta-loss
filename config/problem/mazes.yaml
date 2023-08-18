@@ -1,0 +1,13 @@
+defaults:
+  - hyp: mazes_default
+  - model: dt_net_recall_2d
+
+name: mazes
+test_data: 59
+train_batches: 0
+val_batches: 0
+test_batches: 0
+train_data: 9
+
+model:
+  width: 128
